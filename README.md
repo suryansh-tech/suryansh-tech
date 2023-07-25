@@ -1,4 +1,4 @@
-# 💫 About Me:
+#              💫 About Me:
 
 - 🔭 I'm currently working on development
 - 🌱 I'm looking to collaborate on software and web development projects
@@ -22,7 +22,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=suryansh-tech&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
